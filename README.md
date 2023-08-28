@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Precious Eyoh<br>👀 I’m interested in Python and Backend Engineering.<br>🌱 I’m currently learning Django framework<br>
+👋 Hi, I’m Precious Eyoh => **CyberFreak999**<br>👀 I’m interested in Python and Backend Engineering.<br>🌱 I’m currently learning Django framework<br>I'm also a cyberscurity enthusiast
 
 
 ## 🌐 Socials:
