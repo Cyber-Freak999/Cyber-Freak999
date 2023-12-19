@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on backend projects with Django Framework, and Flask<br>🌱 I’m currently learning FastAPI and embedded systems programming<br>👯 I’m looking to collaborate on fun and challenging projects<br>💬 Ask me about anything about tech<br>✅ Fun fact : I love cybersecurity
+🔭 I’m currently working on my cybersecurity skills<br>🌱 I’m currently learning offensive security & Rust<br>👯 I’m looking to collaborate on fun and challenging projects<br>💬 Ask me about anything about tech<br>✅ Fun fact : I am a polymath
 
 
 ## 🌐 Socials:
@@ -15,8 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## My Holopin Badge
-[![An image of @cyberfreak9997's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyberfreak9997)](https://holopin.io/@cyberfreak9997)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Cyber-Freak999&icon=0&color=0)](https://visitcount.itsvg.in)
