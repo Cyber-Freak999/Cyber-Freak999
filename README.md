@@ -21,7 +21,12 @@
 ![tryhackme stats](https://raw.githubusercontent.com/Cyber-Freak999/Cyber-Freak999/master/assets/thm_propic.png)
 
 ---
-
+<div align="center">
+  // Hacker Profile // <br/> <br/>
+  <a href="https://tryhackme.com/p/CyberFreak999"> 
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=165830" style='border:none;'></iframe>
+  </a>
+</div>
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=165830" style='border:none;'></iframe>
 
 ---
