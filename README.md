@@ -17,12 +17,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Freak999&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-
-![tryhackme stats](https://raw.githubusercontent.com/Cyber-Freak999/Cyber-Freak999/master/assets/thm_propic.png)
-
----
 <div align="center">
-  // Hacker Profile // <br/> <br/>
+  <h1>My THM Profile</h1> <br/> <br/>
   <a href="https://tryhackme.com/p/CyberFreak999"> 
     <img src="https://tryhackme-badges.s3.amazonaws.com/CyberFreak999.png" alt="Your Image Badge" />
   </a>
