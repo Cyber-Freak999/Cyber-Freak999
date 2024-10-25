@@ -24,10 +24,9 @@
 <div align="center">
   // Hacker Profile // <br/> <br/>
   <a href="https://tryhackme.com/p/CyberFreak999"> 
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=165830" style='border:none;'></iframe>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/CyberFreak999.png" alt="Your Image Badge" />
   </a>
 </div>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=165830" style='border:none;'></iframe>
 
 ---
 
