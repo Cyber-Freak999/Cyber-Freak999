@@ -17,14 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Freak999&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-<div align="center">
-  <h1>My THM Profile</h1> <br/> <br/>
-  <a href="https://tryhackme.com/p/CyberFreak999"> 
-    <img src="https://tryhackme-badges.s3.amazonaws.com/CyberFreak999.png" alt="Your Image Badge" />
-  </a>
-</div>
-
----
 
 ### ✍️ Random Dev Quote
 
